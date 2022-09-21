@@ -1,4 +1,4 @@
-# Lending Club credit loss forecasting
+# Lending Club Credit Loss Forecasting
 
 •	Performed credit loss forecasting based on historical personal loan data using Python.
 
